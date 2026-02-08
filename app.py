@@ -54,7 +54,7 @@ def fetch_top_50_prices():
     return data.iloc[-1], tickers
 
 # --- 介面渲染 ---
-st.markdown("<h1 class='tech-title'>🛰️ AI LIVE QUANT TERMINAL v9.0</h1>", unsafe_allow_html=True)
+st.markdown("<h1 class='tech-title'>🛰️ AI LIVE 費痱隊 美股動態即時檢控系統</h1>", unsafe_allow_html=True)
 
 # --- 區塊一：美國三大指數 中文說明 ---
 st.markdown("### 🏛️ 全球宏觀指標觀察")
