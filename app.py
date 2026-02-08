@@ -5,7 +5,7 @@ import yfinance as yf
 from datetime import datetime, timedelta
 
 # --- 頁面配置與賽博風格 ---
-st.set_page_config(page_title="費痱隊 美股動態即時檢控系統", layout="wide")
+st.set_page_config(page_title="費痱隊 美股即時動態監控系統", layout="wide")
 st.markdown("""
     <style>
     .stApp { background: #080a0e; color: #d1d1d1; }
